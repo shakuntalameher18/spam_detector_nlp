@@ -1,0 +1,14 @@
+ipykernel
+kaggle
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+opencv-python
+ultralytics
+nltk
+wordcloud
+scikit-learn
+keras_preprocessing
+joblib
