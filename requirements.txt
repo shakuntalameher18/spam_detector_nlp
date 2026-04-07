@@ -1,13 +1,5 @@
-ipykernel
-pandas
-matplotlib
-seaborn
+streamlit
 tensorflow==2.15.0
 numpy==1.26.4
-opencv-python
-ultralytics
-nltk
-wordcloud
+pandas
 scikit-learn
-keras_preprocessing
-joblib
